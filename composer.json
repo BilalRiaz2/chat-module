@@ -1,5 +1,5 @@
 {
-    "name": "bilal/chat",
+    "name": "bilal/chat-module",
     "description": "",
     "type":"laravel-module",
     "authors": [
